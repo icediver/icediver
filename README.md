@@ -8,6 +8,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+Full+stack+programmer)](https://git.io/typing-svg)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=icediver&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=icediver&theme=github_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=github_dark)
