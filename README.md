@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 <!--
-**icediver/icediver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**icediver/icediver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub 
+
+profile.https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGExdzcwMHhncG9lcWtrcG81YTFtejBvMTNyOWU1NGhmcDlwd3NtciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif
 
 Here are some ideas to get you started:
 
