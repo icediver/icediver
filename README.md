@@ -6,8 +6,7 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=Hi+there%2C+i'm+IceDiver.;I'm+Full+stack+;web+and+mobile+developer!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&height=100&lines=Hi+there%2C+I'm+IceDiver.;I'm+Full+stack+;web+and+mobile+developer)](https://git.io/typing-svg)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=icediver&theme=github_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=github_dark)
