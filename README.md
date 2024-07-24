@@ -11,3 +11,5 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=icediver&theme=github_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=github_dark)
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
