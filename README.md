@@ -21,13 +21,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=github_dark)
 
  
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
-###
-
-<h3 align="left">🛠 Технологии:</h3>
-
-###
 
 ### Skills 
 <p align="left">
