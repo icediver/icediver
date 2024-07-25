@@ -12,7 +12,8 @@
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=icediver&theme=tokyonight" alt="GitHub Streak" /></a>
 </p>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&height=100&lines=Hi+there%2C+I'm+IceDiver.;I'm+Full+stack+;web+and+mobile+developer)](https://git.io/typing-svg)
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&height=100&lines=Hi+there%2C+I'm+IceDiver.;I'm+Full+stack+;web+and+mobile+developer)](https://git.io/typing-svg)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=icediver&theme=github_dark)
 
 ### Socials
